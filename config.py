@@ -64,7 +64,7 @@ class DLConfig:
     epochs: int = 50
     batch_size: int = 32
     patience: int = 5           # early stopping
-    sequence_length: int = 30   # look-back window for LSTM/GRU/CNN
+    sequence_length: int = 30   # look-back window for LSTM/GRU
     lstm_units: int = 64
     gru_units: int = 64
     cnn_filters: int = 64
