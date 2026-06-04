@@ -62,8 +62,8 @@ yazlab-2/
 ├── explainability/
 │   └── explainer.py           # Path prob., güven skoru, counterfactual
 ├── experiments/
-│   ├── batadal_exp.py
-│   └── skab_exp.py
+│   ├── batadal_exp.py         # BATADAL deney pipeline'ı — zaman sıralı 60/20/20 bölme, 3 senaryo, parametre taraması
+│   └── skab_exp.py            # SKAB deney pipeline'ı — StratifiedGroupKFold (k=5), 3 senaryo, parametre taraması
 ├── tests/
 │   └── test_unseen.py         # Testler
 ├── models_saved/              # Eğitilmiş modeller (.keras, .pkl)
