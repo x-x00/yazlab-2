@@ -98,7 +98,3 @@ yazlab-2/
 **Sabit Automata parametreleri:** window_size=4, alphabet_size=3
 
 **Parametre varyasyonu:** window_size ∈ {3,4,5,6}, alphabet_size ∈ {3,4,5,6}
-
----
-
-## Proje Raporu Linki
