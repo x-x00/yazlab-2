@@ -1,0 +1,162 @@
+[
+  {
+    "time_step": 0,
+    "state": "cc",
+    "pattern": "cc",
+    "status": "seen",
+    "mapped_to": "cc",
+    "edit_distance": null,
+    "transitions": {
+      "cc -> cc": 0.975327
+    },
+    "path_probability": 0.975327,
+    "probability": 0.975327,
+    "decision": "normal",
+    "confidence_score": 0.975327,
+    "ground_truth": 0
+  },
+  {
+    "time_step": 1,
+    "state": "cc",
+    "pattern": "cc",
+    "status": "seen",
+    "mapped_to": "cc",
+    "edit_distance": null,
+    "transitions": {
+      "cc -> cc": 0.975327
+    },
+    "path_probability": 0.951263,
+    "probability": 0.951263,
+    "decision": "normal",
+    "confidence_score": 0.975327,
+    "ground_truth": 0
+  },
+  {
+    "time_step": 2,
+    "state": "cc",
+    "pattern": "cc",
+    "status": "seen",
+    "mapped_to": "cc",
+    "edit_distance": null,
+    "transitions": {
+      "cc -> cc": 0.975327
+    },
+    "path_probability": 0.927792,
+    "probability": 0.927792,
+    "decision": "normal",
+    "confidence_score": 0.975327,
+    "ground_truth": 0
+  },
+  {
+    "time_step": 3,
+    "state": "cc",
+    "pattern": "cc",
+    "status": "seen",
+    "mapped_to": "cc",
+    "edit_distance": null,
+    "transitions": {
+      "cc -> cc": 0.975327
+    },
+    "path_probability": 0.904901,
+    "probability": 0.904901,
+    "decision": "normal",
+    "confidence_score": 0.975327,
+    "ground_truth": 0
+  },
+  {
+    "time_step": 4,
+    "state": "cc",
+    "pattern": "cc",
+    "status": "seen",
+    "mapped_to": "cc",
+    "edit_distance": null,
+    "transitions": {
+      "cc -> cc": 0.975327
+    },
+    "path_probability": 0.882575,
+    "probability": 0.882575,
+    "decision": "normal",
+    "confidence_score": 0.975327,
+    "ground_truth": 0
+  },
+  {
+    "time_step": 5,
+    "state": "cc",
+    "pattern": "cc",
+    "status": "seen",
+    "mapped_to": "cc",
+    "edit_distance": null,
+    "transitions": {
+      "cc -> cc": 0.975327
+    },
+    "path_probability": 0.860799,
+    "probability": 0.860799,
+    "decision": "normal",
+    "confidence_score": 0.975327,
+    "ground_truth": 0
+  },
+  {
+    "time_step": 6,
+    "state": "cc",
+    "pattern": "cc",
+    "status": "seen",
+    "mapped_to": "cc",
+    "edit_distance": null,
+    "transitions": {
+      "cc -> cc": 0.975327
+    },
+    "path_probability": 0.83956,
+    "probability": 0.83956,
+    "decision": "normal",
+    "confidence_score": 0.975327,
+    "ground_truth": 0
+  },
+  {
+    "time_step": 7,
+    "state": "cc",
+    "pattern": "cc",
+    "status": "seen",
+    "mapped_to": "cc",
+    "edit_distance": null,
+    "transitions": {
+      "cc -> cc": 0.975327
+    },
+    "path_probability": 0.818846,
+    "probability": 0.818846,
+    "decision": "normal",
+    "confidence_score": 0.975327,
+    "ground_truth": 0
+  },
+  {
+    "time_step": 8,
+    "state": "cc",
+    "pattern": "cc",
+    "status": "seen",
+    "mapped_to": "cc",
+    "edit_distance": null,
+    "transitions": {
+      "cc -> cc": 0.975327
+    },
+    "path_probability": 0.798643,
+    "probability": 0.798643,
+    "decision": "normal",
+    "confidence_score": 0.975327,
+    "ground_truth": 0
+  },
+  {
+    "time_step": 9,
+    "state": "cc",
+    "pattern": "cc",
+    "status": "seen",
+    "mapped_to": "cc",
+    "edit_distance": null,
+    "transitions": {
+      "cc -> cc": 0.975327
+    },
+    "path_probability": 0.778938,
+    "probability": 0.778938,
+    "decision": "normal",
+    "confidence_score": 0.975327,
+    "ground_truth": 0
+  }
+]

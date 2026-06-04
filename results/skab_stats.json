@@ -1,0 +1,23 @@
+{
+  "LSTM_vs_Automata": {
+    "wilcoxon_statistic": 0.0,
+    "p_value": 0.0625,
+    "significant_0.05": false,
+    "LSTM_mean_f1": 0.8255,
+    "Automata_mean_f1": 0.1334
+  },
+  "GRU_vs_Automata": {
+    "wilcoxon_statistic": 0.0,
+    "p_value": 0.0625,
+    "significant_0.05": false,
+    "GRU_mean_f1": 0.865,
+    "Automata_mean_f1": 0.1334
+  },
+  "LSTM_vs_GRU": {
+    "wilcoxon_statistic": 0.0,
+    "p_value": 0.0625,
+    "significant_0.05": false,
+    "LSTM_mean_f1": 0.8255,
+    "GRU_mean_f1": 0.865
+  }
+}

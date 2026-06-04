@@ -1,0 +1,152 @@
+[
+  {
+    "time_step": 0,
+    "state": "cb",
+    "pattern": "cb",
+    "status": "seen",
+    "mapped_to": "cb",
+    "edit_distance": null,
+    "transitions": {
+      "cb -> ba": 0.272724
+    },
+    "path_probability": 0.272724,
+    "probability": 0.272724,
+    "decision": "normal",
+    "confidence_score": 0.272724
+  },
+  {
+    "time_step": 1,
+    "state": "ba",
+    "pattern": "ba",
+    "status": "seen",
+    "mapped_to": "ba",
+    "edit_distance": null,
+    "transitions": {
+      "ba -> ac": 0.20833
+    },
+    "path_probability": 0.056816,
+    "probability": 0.056816,
+    "decision": "normal",
+    "confidence_score": 0.20833
+  },
+  {
+    "time_step": 2,
+    "state": "ac",
+    "pattern": "ac",
+    "status": "seen",
+    "mapped_to": "ac",
+    "edit_distance": null,
+    "transitions": {
+      "ac -> ca": 0.288658
+    },
+    "path_probability": 0.016401,
+    "probability": 0.016401,
+    "decision": "normal",
+    "confidence_score": 0.288658
+  },
+  {
+    "time_step": 3,
+    "state": "ca",
+    "pattern": "ca",
+    "status": "seen",
+    "mapped_to": "ca",
+    "edit_distance": null,
+    "transitions": {
+      "ca -> ac": 0.218181
+    },
+    "path_probability": 0.003578,
+    "probability": 0.003578,
+    "decision": "normal",
+    "confidence_score": 0.218181
+  },
+  {
+    "time_step": 4,
+    "state": "ac",
+    "pattern": "ac",
+    "status": "seen",
+    "mapped_to": "ac",
+    "edit_distance": null,
+    "transitions": {
+      "ac -> cc": 0.546388
+    },
+    "path_probability": 0.001955,
+    "probability": 0.001955,
+    "decision": "normal",
+    "confidence_score": 0.546388
+  },
+  {
+    "time_step": 5,
+    "state": "cc",
+    "pattern": "cc",
+    "status": "seen",
+    "mapped_to": "cc",
+    "edit_distance": null,
+    "transitions": {
+      "cc -> ca": 0.51456
+    },
+    "path_probability": 0.001006,
+    "probability": 0.001006,
+    "decision": "normal",
+    "confidence_score": 0.51456
+  },
+  {
+    "time_step": 6,
+    "state": "ca",
+    "pattern": "ca",
+    "status": "seen",
+    "mapped_to": "ca",
+    "edit_distance": null,
+    "transitions": {
+      "ca -> aa": 0.627269
+    },
+    "path_probability": 0.000631,
+    "probability": 0.000631,
+    "decision": "normal",
+    "confidence_score": 0.627269
+  },
+  {
+    "time_step": 7,
+    "state": "aa",
+    "pattern": "aa",
+    "status": "seen",
+    "mapped_to": "aa",
+    "edit_distance": null,
+    "transitions": {
+      "aa -> ab": 0.1
+    },
+    "path_probability": 6.3e-05,
+    "probability": 6.3e-05,
+    "decision": "anomaly",
+    "confidence_score": 0.1
+  },
+  {
+    "time_step": 8,
+    "state": "ab",
+    "pattern": "ab",
+    "status": "seen",
+    "mapped_to": "ab",
+    "edit_distance": null,
+    "transitions": {
+      "ab -> bc": 0.594583
+    },
+    "path_probability": 3.8e-05,
+    "probability": 3.8e-05,
+    "decision": "normal",
+    "confidence_score": 0.594583
+  },
+  {
+    "time_step": 9,
+    "state": "bc",
+    "pattern": "bc",
+    "status": "seen",
+    "mapped_to": "bc",
+    "edit_distance": null,
+    "transitions": {
+      "bc -> cc": 0.368417
+    },
+    "path_probability": 1.4e-05,
+    "probability": 1.4e-05,
+    "decision": "normal",
+    "confidence_score": 0.368417
+  }
+]
